@@ -19,6 +19,7 @@ I have strong expertise in model-based development (MBD), real-time systems, and
 - ROS (Robot Operating System) for UAVs and mobile robots
 
 Feel free to connect with me or explore my projects!
+onkar.chavan10@gmail.com
 
 
 <!---
